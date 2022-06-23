@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.859e7189.chunk.css",
+    "main.js": "/static/js/main.dc8f2fad.chunk.js",
+    "main.js.map": "/static/js/main.dc8f2fad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.765f6d9f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.765f6d9f.js.map",
+    "static/css/2.61ad2892.chunk.css": "/static/css/2.61ad2892.chunk.css",
+    "static/js/2.90e75df3.chunk.js": "/static/js/2.90e75df3.chunk.js",
+    "static/js/2.90e75df3.chunk.js.map": "/static/js/2.90e75df3.chunk.js.map",
+    "static/js/3.7fa54738.chunk.js": "/static/js/3.7fa54738.chunk.js",
+    "static/js/3.7fa54738.chunk.js.map": "/static/js/3.7fa54738.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.61ad2892.chunk.css.map": "/static/css/2.61ad2892.chunk.css.map",
+    "static/css/main.859e7189.chunk.css.map": "/static/css/main.859e7189.chunk.css.map",
+    "static/js/2.90e75df3.chunk.js.LICENSE.txt": "/static/js/2.90e75df3.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/static/media/SFProDisplay-UltralightItalic.ede7a30e.woff",
+    "static/media/index.css": "/static/media/cropsfarmer2.83d40fa2.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.765f6d9f.js",
+    "static/css/2.61ad2892.chunk.css",
+    "static/js/2.90e75df3.chunk.js",
+    "static/css/main.859e7189.chunk.css",
+    "static/js/main.dc8f2fad.chunk.js"
+  ]
+}
